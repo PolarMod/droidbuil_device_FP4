@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project name="PolarMod/android_device_fairphone_FP4" path="device/fairphone/FP4" remote="github"/>
+		<project name="LineageOS/android_kernel_fairphone_sm7225" path="kernel/fairphone/sm7225" remote="github" />
+		<project name="ThuMuppets/proprietary_vendor_fairphone_FP4" path="vendor/fairphone/FP4" />
+</manifest>    
